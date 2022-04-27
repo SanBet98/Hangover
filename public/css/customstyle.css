@@ -1,0 +1,20 @@
+.bg-dark-dropdown {
+    color: #fffeef;
+    background-color: #18171c;
+}
+.ombra {
+    text-shadow: 2px 2px  #333;
+}
+
+td{
+    word-wrap: break-word
+}
+
+table{
+    table-layout: fixed
+}
+
+.invalid-input {
+    color: #bd2626;
+    font-weight: bold;
+}
